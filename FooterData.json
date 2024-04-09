@@ -1,0 +1,16 @@
+{
+    "socialMedia": [
+      { "url": "https://www.facebook.com/", "iconSrc": "socialmedia/facebook.png", "alt": "Facebook" },
+      { "url": "https://www.instagram.com/", "iconSrc": "socialmedia/instagram.png", "alt": "Instagram" },
+      { "url": "https://www.youtube.com/", "iconSrc": "socialmedia/youtube.png", "alt": "YouTube" },
+      { "url": "https://twitter.com/", "iconSrc": "socialmedia/twitter.png", "alt": "Twitter" },
+      { "url": "https://www.linkedin.com/", "iconSrc": "socialmedia/linkedin.png", "alt": "LinkedIn" }
+    ],
+    "copyright": "Copyright © 2024 Sri Lankan Wildlife",
+    "additionalLinks": [
+      { "url": "privacypolicy.html", "text": "Privacy Policy" },
+      { "url": "conditions.html", "text": "Terms & Conditions" }
+      
+    ]
+  }
+  

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="wilpattu.css">
+    <link rel="stylesheet" href="./styles/headerstyles.css">
+    <link rel="stylesheet" href="./styles/footerstyles.css">
+    <title>Sri Lankan Wildlife</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.jpeg">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="home1.html">
+                <img id="logo" src="images/logo.jpeg" alt="Logo">
+              </a>
+        </div>
+        <div class="menu-toggle" id="mobile-menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="dashb.html">Dashboard</a></li>
+                <li><a href="home1.html">Home</a></li>
+                <li><a href="intro1.html">Introduction</a></li>
+                <li><a href="dwc1.html">Department of Wildlife</a></li>
+                <li class="active"><a href="leopard1.html">Sri Lankan Leopard</a></li>
+                <li class="dropdown">
+                    <a href="animals1.html">Animals in Sri Lanka</a>
+                    <button id="logoutButton">Logout</button>
+                    <div class="dropdown-menu">
+                        <a href="animals1.html">Animals in Sri Lanka</a>
+                        <a href="yala1.html">Yala National Park</a>
+                        <a href="wilpattu1.html">Wilpattu National Park</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <br>
+    <br>
+
+
+    <!--content editor-->
+    <button id="editBtn">Edit Content</button>
+        <div id="editorPopup">
+             <textarea id="contentEditor" rows="10" cols="50"></textarea>
+             <button id="saveBtn">Save Changes</button><br>
+             <button id="exitBtn">Exit</button>
+        </div>
+        
+
+
+    <div class="container">
+
+        <main>
+            <div id="content"></div>
+
+            
+
+            <div class="button-container">
+                <button class="button" onclick="window.location.href='yala1.html'">
+                    <span>Yala National Park</span>
+                </button>
+
+                <button class="button" onclick="window.location.href='wilpattu1.html'">
+                    <span>Wilpattu National Park</span>
+                </button>
+            </div>
+        </main>
+    </div>
+
+
+    <footer class="footer">
+        <div class="footer-container social-media-links">
+            <ul id="socialMediaLinks"></ul>
+        </div>
+        <div class="copyright">
+            <a link rel="icon" type="image/x-icon" href="images/logo.jpeg"></a>
+            <p id="copyrightText"></p>
+            <ul id="additionalLinks"></ul>
+        </div>
+
+        <!--newsletter popup-->
+        <div class="newsletter">
+            <h2 class="nwsl">Subscribe to our Newsletter</h2>
+            <form id="newsletterForm">
+              <input type="email" id="emailInput" placeholder="Your email" required>
+              <button type="submit">Subscribe</button>
+            </form>
+          </div>
+
+        <button id="backToTopBtn" title="Go to top">↑</button>
+    </footer>
+
+    <script>
+        // JavaScript code to handle logout functionality
+        document.getElementById("logoutButton").addEventListener("click", function() {
+            // Perform logout actions here, e.g., clearing session data, redirecting to login page
+            // For demonstration purpose, let's just redirect to a login page
+            window.location.href = "index.html"; // Replace "login.html" with the actual login page URL
+        });
+    </script>
+
+    <script src="script.js"></script>
+    <script src="scripts/script.js"></script>
+    <script src="scripts/wilpattuscript.js"></script>
+    <script src="scripts/footerscript.js"></script>
+    <!-- <script src="scripts/headerscript.js"></script> -->
+    <script src="newsletter.js"></script>
+    <script src="contenteditor.js"></script>
+    <script src="scripts/lockedheader.js"></script>
+
+</body>
+
+</html>

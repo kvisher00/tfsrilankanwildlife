@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles/headerstyles.css">
+    <link rel="stylesheet" href="./styles/footerstyles.css">
+    <title>Sri Lankan Wildlife</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.jpeg">
+</head>
+
+<body>
+
+  <header>
+    <div class="logo">
+      <a href="index.html">
+        <img id="logo" src="" alt="Logo">
+      </a>
+    </div>
+    <div class="menu-toggle" id="mobile-menu">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div>
+    <nav class="navbar">
+      <ul></ul>
+    </nav>
+  </header>
+
+  <br>
+
+      <!--content editor-->
+      <!-- <button id="editBtn">Edit Content</button>
+      <div id="editorPopup">
+           <textarea id="contentEditor" rows="10" cols="50"></textarea>
+           <button id="saveBtn">Save Changes</button><br>
+           <button id="exitBtn">Exit</button>
+        </div> -->
+      
+    <main>
+      <div class="container">
+        
+
+            <section class="container" id="top">
+              <h1>Indigenous Animals in Sri Lanka</h1>
+              <p>Sri Lanka is home to a diverse range of flora and fauna, with many species found nowhere else in the world.
+                Here are some of the indigenous animals found in Sri Lanka:</p>
+              <ul class="bucket-d" id="animalList">
+              </ul>
+            </section>
+
+            <div class="container" id="animalContainer">
+            </div>
+          </div>
+
+          <div class="button-container">
+            <button class="button" id="yala" onclick="window.location.href='yala.html'">
+              <span>Yala National Park</span>
+            </button>
+
+            <button class="button" id="wilpattu" onclick="window.location.href='wilpattu.html'">
+              <span>Wilpattu National Park</span>
+            </button>
+          </div>
+      </div>
+    </main>
+
+  <footer class="footer">
+    <div class="footer-container social-media-links">
+      <ul id="socialMediaLinks"></ul>
+    </div>
+    <div class="copyright">
+      <a link rel="icon" type="image/x-icon" href="images/logo.jpeg"></a>
+      <p id="copyrightText"></p>
+      <ul id="additionalLinks"></ul>
+    </div>
+
+
+        <!--newsletter popup-->
+        <div class="newsletter">
+          <h2 class="nwsl">Subscribe to our Newsletter</h2>
+          <form id="newsletterForm">
+            <input type="email" id="emailInput" placeholder="Your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+
+    <button id="backToTopBtn" title="Go to top">↑</button>
+  </footer>
+
+  <script src="script.js"></script>
+  <script src="scripts/animalscript.js"></script>
+  <script src="scripts/script.js"></script>
+  <script src="scripts/footerscript.js"></script>
+  <script src="scripts/headerscript.js"></script>
+  <section src="newsletter.js"></section>
+
+  <!-- <script src="contenteditor.js"></script> -->
+
+</body>
+
+</html>

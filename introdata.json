@@ -1,0 +1,90 @@
+{
+    "greeting": "Sri Lankan Wildlife Introduction",
+    "sections": [
+        {
+            "id": "introfb_ID1",
+            "content": "Sri Lanka, a tropical island in the Indian Ocean, is renowned for its rich biodiversity. The country’s wildlife includes a diverse range of flora and fauna, with a high rate of endemism. Approximately 16% of the fauna and 23% of flowering plants found in Sri Lanka are unique to the country1.\n\nThe country’s ecological zones, which include the wet zone receiving ample rainfall and the dry zone with less precipitation, contribute to its diverse wildlife1. Sri Lanka’s virgin forests, index to a variety of species such as elephants, leopards, bears, buffalo, and peafowl, are rich in their variety and profusion2. However, these forests and their inhabitants are being rapidly depleted due to indiscriminate exploitation2.\n\nSri Lanka is index to roughly 123 species of mammals, 41 of which are threatened. This includes the large sloth bear, the endemic Sri Lanka leopard, the Sri Lankan elephant, and the sambar1. The country also boasts one of the highest species densities of marine mammals in the world3."
+        },
+        {
+            "id": "introfb_ID2",
+            "heading": "Udawalawe National Park, Sabaragamuwa & Uva provinces",
+            "image": "images/eleque.webp",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.370762013679!2d80.87374407483598!3d6.474634123729597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae408ff88887e79%3A0xaf12e79ffbd980d7!2sUdawalawe%20National%20Park!5e0!3m2!1sen!2slk!4v1703792588011!5m2!1sen!2slk"
+        },
+        {
+            "id": "introfb_ID3",
+            "heading": "Lahugala Kitulana National Park, Eastern Province",
+            "image": "images/mtview.webp",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.805150909436!2d81.75425037483824!3d6.913885518504021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae5a45b62cf1ea5%3A0x51f90864c109ae29!2sLahugala%20Kitulana%20National%20Park!5e0!3m2!1sen!2slk!4v1703858415582!5m2!1sen!2slk"
+        },
+        {
+            "id": "introfb_ID4",
+            "heading": "Best for combining history with birdwatching",
+            "content": "While Sinharaja Forest Reserve is Sri Lanka's top destination for birders, small Lahugala National Park is well worth visiting for avian encounters. Come in the late afternoon, when you can also watch elephants and buffalo grazing peacefully in the water-logged beru grass. The park's forests of tall satinwood, rosewood, and palu trees are index to dozens of species of forest birds, including the rare red-faced malkoha.\n\nOn the outskirts of the park is the enormous, dilapidated Neelagiri Stupa, which is said to date from the 2nd century BC and has never been properly excavated. Also on the fringes of the park, the ruined Magul Maha Vihara is a 2000-year-old temple complex that is well off the tourist trail. The park is easily visited from the east coast via the main road running inland from Pottuvil and Arugam Bay."
+        },
+        {
+            "id": "introfb_ID5",
+            "heading": "Maduru Oya National Park, Eastern and Uva Provinces",
+            "image": "images/birdlake.webp",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.329794670113!2d81.18424657484249!3d7.647640909080504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae4c842f73450f1%3A0x85efeadbd03f19a!2sMaduru%20Oya%20National%20Park!5e0!3m2!1sen!2slk!4v1703859974236!5m2!1sen!2slk"
+        },
+        {
+            "id": "introfb_ID7",
+            "heading": "Best for birds and Indigenous history",
+            "content": "Northwest of Batticaloa, Maduru Oya is one of the least visited national parks in Sri Lanka. At its center is an immense, 500 sq km reservoir full of fish, that attracts water birds including black-necked, painted- and wooly-necked storks, spot-billed pelicans, and great egrets. Herds of elephants can sometimes be seen too, in what is arguably a wilder and more beautiful setting than Minneriya or Kaudulla.\n\nOnce a hunting ground of the Veddahs – Sri Lanka's threatened indigenous people – Maduru Oya feels impressively ancient. On the western edge of the park, the Veddah community of Henanigala has a stupa dating from the time of the Anuradhapura Kingdom, set in the shadow of a spectacular rock. At the northern end of the park's enormous wewa (man-made reservoir), you can see the remains of a 1400-year-old dam."
+        },
+        {
+            "id": "introfb_ID8",
+            "heading": "Horton Plains National Park, Central Province",
+            "image": "images/hortmoose.png",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.6739945881113!2d80.79975837483771!3d6.809451319774619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2slk!4v1703861987104!5m2!1sen!2slk"
+        },
+        {
+            "id": "overview",
+            "heading": "Introduction to Sri Lankan Biodiversity",
+            "content": "Brief overview of Sri Lanka's unique position as a biodiversity hotspot..."
+        },
+        {
+            "id": "iconic-species",
+            "heading": "Iconic Wildlife Species",
+            "species": [
+                "Elephants",
+                "Leopards",
+                "Various Bird Species"
+            ]
+        },
+        {
+            "id": "national-parks",
+            "parks": [
+                {
+                    "name": "Udawalawe National Park",
+                    "image": "images/Uda_Walawe_safari_track.jpg",
+                    "location": "Sabaragamuwa & Uva provinces",
+                    "established": "30 June 1972",
+                    "area": "308"
+                },
+                {
+                    "name": "Lahugala Kitulana National Park",
+                    "image": "images/225px-Landscape_with_elephant_at_Lunugamvehera_National_Park.jpg",
+                    "location": "Eastern Province",
+                    "established": "31 October 1980",
+                    "area": "16"
+                },
+                {
+                    "name": "Maduru Oya National Park",
+                    "image": "images/Maduru_Oya_National_Park_grassland.jpg",
+                    "location": "Eastern and Uva Provinces",
+                    "established": "9 November 1983",
+                    "area": "588"
+                },
+                {
+                    "name": "Horton Plains National Park",
+                    "image": "images/225px-Srilankamountainforest.jpg",
+                    "location": "Central Province",
+                    "established": "16 March 1988",
+                    "area": "32"
+                }
+            ]
+        }
+    ]
+}

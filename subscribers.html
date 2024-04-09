@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subscribers</title>
+</head>
+
+<body>
+  <h1>Subscribers</h1>
+  <div id="subscriberList"></div>
+
+  <script>
+    // Function to parse URL parameters
+    function getUrlParams() {
+      const searchParams = new URLSearchParams(window.location.search);
+      return Object.fromEntries(searchParams.entries());
+    }
+
+    // Function to display subscribers
+    function displaySubscribers() {
+      const urlParams = getUrlParams();
+      const subscriberString = urlParams['subscribers'];
+      if (subscriberString) {
+        const subscribers = decodeURIComponent(subscriberString).split(',');
+        const subscriberList = document.getElementById('subscriberList');
+        subscribers.forEach((subscriber, index) => {
+          const listItem = document.createElement('div');
+          listItem.textContent = `${index + 1}. ${subscriber}`;
+          subscriberList.appendChild(listItem);
+        });
+      }
+    }
+
+    // Call the function to display subscribers when the page loads
+    displaySubscribers();
+  </script>
+</body>
+
+</html>

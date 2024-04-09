@@ -1,0 +1,18 @@
+{
+  "logoSrc": "images/logo.jpeg",
+  "menuItems": [
+    { "text": "Login", "url": "login.html" },
+    { "text": "Home", "url": "index.html" },
+    { "text": "Introduction", "url": "intro.html" },
+    { "text": "Department of Wildlife", "url": "dwc.html" },
+    { "text": "Sri Lankan Leopard", "url": "leopard.html" },
+    {
+      "text": "Animals in Sri Lanka",
+      "url": "animals.html",
+      "dropdownItems": [
+        { "text": "Yala National Park", "url": "yala.html" },
+        { "text": "Wilpattu National Park", "url": "wilpattu.html" }
+      ]
+    }
+  ]
+}

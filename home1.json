@@ -1,0 +1,44 @@
+{
+  
+    "greetings": [
+      {
+        "language": "Sinhala",
+        "message": "ආයුබෝවන්"
+      },
+      {
+        "language": "Tamil",
+        "message": "வணக்கம்"
+      },
+      {
+        "language": "English",
+        "message": "Welcome"
+      }
+    ],
+  
+      "cardContent": {
+        "title": "Why Sri Lankan Wildlife is Special",
+        "intro": "Sri Lankan wildlife stands out for its exceptional features and vibrant ecosystems. Here's why it's truly special:",
+        "bullets": [
+          "Majestic Sri Lankan Elephants",
+          "Elusive Leopards in Lush Jungles",
+          "Diverse Flora and Fauna",
+          "Harmonious Coexistence of Ecosystems",
+          "Colorful Birdlife, including the Iconic Peacock"
+        ],
+        "conclusion": "The island's commitment to conservation and successful efforts to protect endangered species make it a global conservation leader. Explore the wonders of Sri Lankan wildlife and join us in celebrating its unique biodiversity!"
+      },
+
+  "about": {
+    "heading": "About",
+    "content": [
+      {
+        "title": "Sri Lanka, a teardrop-shaped island nestled in the Indian Ocean",
+        "description": "Sri Lanka, a teardrop-shaped island nestled in the Indian Ocean, boasts a remarkable tapestry of biodiversity that captivates the hearts of nature enthusiasts worldwide. The island's wildlife, a harmonious blend of unique species and ecosystems, paints a vivid portrait of nature's wonders."
+      },
+      {
+        "title": "Sri Lankan Elephant",
+        "description": "One of Sri Lanka's iconic inhabitants is the majestic Sri Lankan elephant (Elephas maximus maximus). Roaming freely in national parks like Udawalawe and Minneriya, these gentle giants symbolize the country's commitment to wildlife conservation. Sri Lanka holds one of the largest wild elephant populations in Asia, providing a haven for these endangered creatures."
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "animals": [
+        {
+            "name": "Sri Lankan Elephant",
+            "image": "images/71081200_3070797429812624_6178704514250440704_n.jpg",
+            "alt": "baby-elephant",
+            "description": "The Sri Lankan Elephant is the largest of the three subspecies of the Asian elephant. It is native to Sri Lanka and is considered an iconic and culturally significant species. These elephants inhabit a variety of ecosystems, from grasslands to dense forests."
+        },
+        {
+            "name": "Sloth Bear",
+            "image": "images/65188184_2985321545026880_7935233554336710656_n.jpg",
+            "alt": "sloth-bear",
+            "description": "The Sloth Bear, native to the Indian subcontinent including Sri Lanka, is characterized by its shaggy coat and distinct facial markings. It primarily feeds on termites and ants using its long, curved claws. Sloth bears are known for their solitary nature."
+        },
+        {
+            "name": "Sri Lankan Leopard",
+            "image": "images/okonjima_lodge_okonjima_experience3.webp",
+            "alt": "leopard",
+            "description": "The Sri Lankan Leopard is a subspecies of the leopard native to Sri Lanka. It is the country's top predator and is known for its striking coat marked with rosettes. Adapted to various habitats, this elusive carnivore is an essential part of Sri Lanka's biodiversity."
+        },
+        {
+            "name": "Toque Macaque",
+            "image": "images/gettyimages-168174114-612x612.jpg",
+            "alt": "Toque-macaque",
+            "description": "The Toque Macaque is a primate species endemic to Sri Lanka. Recognizable by its unique toque-like hair on its head, this monkey species lives in various habitats, from lowland rainforests to urban areas. They are highly social and often form large groups."
+        },
+        {
+            "name": "Sri Lankan Junglefowl",
+            "image": "images/IMG_6175.jpg",
+            "alt": "Junglefowl",
+            "description": "The Sri Lankan Junglefowl is the national bird of Sri Lanka and is endemic to the island. Males are notable for their colorful plumage and are considered the ancestors of the domestic chicken. They inhabit forested areas and are known for their distinctive calls."
+        },
+        {
+            "name": "Spotted Deer",
+            "image": "images/innocentdeer.jpg",
+            "alt": "spotted-deer",
+            "description": "The Sri Lankan Junglefowl is the national bird of Sri Lanka and is endemic to the island. Males are notable for their colorful plumage and are considered the ancestors of the domestic chicken. They inhabit forested areas and are known for their distinctive calls."
+        },
+        {
+            "name": "Water Buffalo",
+            "image": "images/AN2_9891.jpg",
+            "alt": "water-buffalo",
+            "description": "The Sri Lankan Junglefowl is the national bird of Sri Lanka and is endemic to the island. Males are notable for their colorful plumage and are considered the ancestors of the domestic chicken. They inhabit forested areas and are known for their distinctive calls."
+        },
+        {
+            "name": "Indian Muntjac",
+            "image": "images/indisk-muntjak--3f75e48186f5933e810f3dc830ff3b76.jpg",
+            "alt": "pangolin",
+            "description": "The Indian Muntjac, also known as the barking deer, is a small deer species found in Sri Lanka. It is known for its distinctive barking sound. These deer are adaptable and can thrive in various habitats, including forests and grasslands."
+        },
+        {
+            "name": "Indian Pangolin",
+            "image": "images/pangolin.jpg",
+            "alt": "pangolin",
+            "description": "The Indian Pangolin, native to Sri Lanka, is a scaly anteater. It has protective overlapping scales made of keratin. Pangolins are primarily nocturnal and feed on ants and termites using their long, sticky tongue."
+        },
+        {
+            "name": "Indian Hare",
+            "image": "images/hare.jpg",
+            "alt": "indian-hare",
+            "description": "The Indian Hare, found in Sri Lanka, is a small mammal known for its swift movements. As herbivores, they play a role in the ecosystem's balance. They are prey to various predators and contribute to the food web."
+        }
+    ]
+}

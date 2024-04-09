@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles/headerstyles.css">
+    <link rel="stylesheet" href="./styles/footerstyles.css">
+    <title>Sri Lankan Wildlife-Intro</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.jpeg">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+          <a href="index.html">
+            <img id="logo" src="" alt="Logo">
+          </a>
+        </div>
+        <div class="menu-toggle" id="mobile-menu">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+        <nav class="navbar">
+          <ul></ul>
+        </nav>
+      </header>
+
+      <!-- <br>
+      <button id="editBtn">Edit Content</button>
+        <div id="editorPopup">
+             <textarea id="contentEditor" rows="10" cols="50"></textarea>
+             <button id="saveBtn">Save Changes</button><br>
+             <button id="exitBtn">Exit</button>
+        </div> -->
+
+
+      <div class="greeting">
+        <h1 id="greeting"></h1>
+    </div>
+    <main>
+    <div class="container" id="content">
+        <!-- Content will be dynamically generated here -->
+    </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-container social-media-links">
+            <ul id="socialMediaLinks"></ul>
+        </div><!-- .container social-media-links -->
+        <div class="copyright">
+            <a link rel="icon" type="image/x-icon" href="images/logo.jpeg"></a>
+            <p id="copyrightText"></p>
+            <ul id="additionalLinks"></ul>
+        </div>
+
+        <!--newsletter popup-->
+        <div class="newsletter">
+          <h2 class="nwsl">Subscribe to our Newsletter</h2>
+          <form id="newsletterForm">
+            <input type="email" id="emailInput" placeholder="Your email" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+
+        <button id="backToTopBtn" title="Go to top">↑</button>
+    </footer>
+
+    <script src="scripts/script.js"></script>
+    <script src="scripts/footerscript.js"></script>
+    <script src="scripts/headerscript.js"></script>
+    <script src="scripts/introscript.js"></script>
+    <script src="newsletter.js"></script>
+    <!-- <script src="contenteditor.js"></script> -->
+    
+  
+</body>
+
+</html>
+

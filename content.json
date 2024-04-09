@@ -1,0 +1,62 @@
+{
+    "sections": [
+      {
+        "type": "title",
+        "content": "Welcome to Sri Lankan Wildlife"
+      },
+      {
+        "type": "paragraph",
+        "content": "Immerse yourself in the breathtaking biodiversity of Sri Lanka, where diverse ecosystems play host to a myriad of unique and exotic wildlife. From majestic elephants to elusive leopards and vibrant peacocks, our island is a paradise for nature lovers and conservation enthusiasts alike. Explore the lush national parks, embark on wildlife safaris, and learn about ongoing conservation efforts to protect and preserve the rich natural heritage of Sri Lanka. Join us in our mission to celebrate, protect, and sustain the incredible wildlife that makes Sri Lanka truly special. Get ready for an unforgettable journey into the heart of nature!"
+      },
+      {
+        "type": "top-section",
+        "title": "You can watch animals and visit beautiful places",
+        "paragraph": "Embarking on a journey into the heart of nature offers a captivating experience where the convergence of wildlife and stunning landscapes creates a tapestry of natural wonders. One remarkable aspect of this adventure is the opportunity to watch animals in their natural habitats. The thrill of observing majestic elephants, elusive leopards, and vibrant peacocks is unparalleled. Sri Lanka, with its lush national parks, provides a sanctuary for diverse fauna, making it a paradise for wildlife enthusiasts.",
+        "image": "images/Elephas-Minneriya-National-Park-Sri-Lanka.jpg"
+      },
+      {
+        "type": "bottom-section",
+        "title": "Things you must do in Sri Lanka",
+        "items": [
+          "Safari Adventures",
+          "Bird Watching",
+          "Elephant Orphanage Visit",
+          "Explore Rainforests",
+          "Climb Sigirya Rock",
+          "Visit Udawalawe Transit index",
+          "Attend Wildlife Conservation Programs"
+        ]
+      },
+      {
+        "type": "top-section",
+        "title": "Safari Adventures",
+        "paragraph": "Take a safari in one of Sri Lanka's national parks, such as Yala National Park, Wilpattu National Park, or Udawalawe Park. These parks are home to diverse wildlife, including elephants, leopards, sloth bears, and a myriad of bird species. Remember to respect the wildlife and adhere to park regulations to ensure a positive and sustainable safari experience. Each of these parks contributes uniquely to Sri Lanka's reputation as a wildlife lover's paradise.",
+        "image": "images/habarana-hurulu_eco-park_sri-lanka_elephant-safari_19.jpg"
+      },
+      {
+        "type": "bottom-section",
+        "title": "Bird Watching",
+        "paragraph": "Explore the country's bird sanctuaries like Sinharaja Forest Reserve or Bundala National Park. Sri Lanka boasts an array of colorful bird species, making it a paradise for birdwatchers.",
+        "image": "images/87823bdd3ee0aecec300d441550d6ad9--common-birds-north-america (1).jpg"
+      },
+      {
+        "type": "card",
+        "image": "images/innocentdeer.jpg",
+        "alt": "Sri Lankan Deer",
+        "content": "Deer in Sri Lanka play a crucial role in maintaining the ecological balance of different ecosystems. They are not only a delight for wildlife enthusiasts and photographers but also contribute to the overall biodiversity of the island. Visitors to national parks and wildlife reserves have the opportunity to observe these graceful creatures in their natural habitats, adding to the charm of Sri Lanka's wildlife experience."
+      },
+      {
+        "type": "card",
+        "image": "images/peacock.jpg",
+        "alt": "National Park",
+        "content": "The Sri Lankan peacock is a common name for the Indian peafowl (Pavo cristatus), a bird species native to the Indian subcontinent, including Sri Lanka. The male peacock is known for its colorful and elaborate train of feathers, which it displays to attract the female peahen. The peacock is also a symbol of Hindu mythology and the national bird of India."
+      },
+      {
+        "type": "card",
+        "image": "images/hortmoose.png",
+        "alt": "Wildlife Conservation",
+        "content": "Join us in our mission to celebrate, protect, and sustain the incredible wildlife that makes Sri Lanka truly special. Get ready for an unforgettable journey into the heart of nature!"
+      }
+    ]
+  }
+  

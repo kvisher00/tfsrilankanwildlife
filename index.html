@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./styles/headerstyles.css">
+    <link rel="stylesheet" href="./styles/footerstyles.css">
+    <title>Sri Lankan Wildlife</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.jpeg">
+</head>
+
+<body>
+
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <img id="logo" src="" alt="Logo">
+            </a>
+        </div>
+        <div class="menu-toggle" id="mobile-menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+        <nav class="navbar">
+            <ul></ul>
+        </nav>
+    </header>
+
+
+    <!-- Greetings Section -->
+    <div class="greeting" id="greeting-section">
+    </div>
+
+    <!--content editor-->
+    <!-- <button id="editBtn">Edit Content</button>
+        <div id="editorPopup">
+             <textarea id="contentEditor" rows="10" cols="50"></textarea>
+             <button id="saveBtn">Save Changes</button><br>
+             <button id="exitBtn">Exit</button>
+        </div>  -->
+    
+
+    <!-- Slideshow container -->
+    <div class="slideshow-container">
+
+        <div class="mySlides fade">
+            <div class="Elephant"></div>
+            <img src="images/Sri_Lankan_Elephant.jpg" style="width:100%" alt="">
+            <div class="text"></div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="Elephants"></div>
+            <img src="images/elephant-herd-drinking-water_730x478-min.jpg" style="width:100%" alt="">
+            <div class="text"></div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="Leopard"></div>
+            <img src="images/leopard-in-yala-national-park-sri-lanka.jpg" style="width:100%" alt="">
+            <div class="text"></div>
+        </div>
+
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+
+    <main>
+        <div class="container">
+
+            <div id="content">
+            </div>
+
+            <!-- Card Content Section -->
+            <div class="card-content" id="card-content-section">
+            </div>
+
+
+            <!-- About Section -->
+            <section id="about" class="about">
+                <div class="section-heading text-center">
+                    <h2 id="about-heading"></h2>
+                </div>
+                <div class="container">
+                    <div class="about-content">
+                        <div class="row" id="about-content-row">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+    </main>
+    </div>
+
+    <footer class="footer">
+
+        <!--newsletter popup-->
+        <div class="newsletter">
+            <h2 class="nwsl">Subscribe to our Newsletter</h2>
+            <form id="newsletterForm">
+                <input type="email" id="emailInput" placeholder="Your email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+
+        <div class="footer-container social-media-links">
+          <ul id="socialMediaLinks"></ul>
+        </div>
+        <div class="copyright">
+          <a link rel="icon" type="image/x-icon" href="images/logo.jpeg"></a>
+          <p id="copyrightText"></p>
+          <ul id="additionalLinks"></ul>
+        </div>
+
+        <button id="backToTopBtn" title="Go to top">↑</button>
+      </footer>
+    
+      <script src="script.js"></script>
+      <script src="scripts/script.js"></script>
+      <script src="scripts/footerscript.js"></script>
+      <script src="scripts/headerscript.js"></script>
+      <script src="newsletter.js"></script>
+      <!-- <script src="contenteditor.js"></script>  -->
+   
+    
+    </body>
+    
+    </html>
